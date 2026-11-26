@@ -26,7 +26,7 @@ google_analytics_id:
 # -----------------------------------------------------------------------------
 title: "Muhanned KP | IT & Cloud Tips"
 avatar: "./images/profile.jpeg"
-name: "@muhanned.kp"
+name: "@kpm.decoded"
 tagline: >-
     IT Infrastructure & Cloud Specialist in Abu Dhabi 🇦🇪 Azure · Microsoft 365 · Windows Server · Security.
     Practical tech tips in 30 seconds.
@@ -38,7 +38,7 @@ links:
   - link:
       icon: "fa-brands fa-youtube"
       text: "Latest Short: {{ vars.YouTubeChannelLatestVideoPlugin['UCVZY5qeppjMRBUktTN7Y9Ow'].title | default: 'Watch my latest tip' }}"
-      url: "{{ vars.YouTubeChannelLatestVideoPlugin['UCVZY5qeppjMRBUktTN7Y9Ow'].url | default: 'https://www.youtube.com/@muhannedkp/shorts' }}"
+      url: "{{ vars.YouTubeChannelLatestVideoPlugin['UCVZY5qeppjMRBUktTN7Y9Ow'].url | default: 'https://www.youtube.com/@kpm.decoded/shorts' }}"
       alt: "Latest YouTube Short"
       title: "Latest YouTube Short"
       target: "_blank"
@@ -46,14 +46,14 @@ links:
   - link:
       icon: "fa-brands fa-youtube"
       text: "YouTube <span class='link-button-text'>(IT & Cloud Tips)</span>"
-      url: "https://www.youtube.com/@muhannedkp"
+      url: "https://www.youtube.com/@kpm.decoded"
       alt: "Muhanned KP on YouTube"
       title: "Subscribe on YouTube"
       target: "_blank"
   - link:
       icon: "fa-brands fa-instagram"
-      text: "Instagram <span class='link-button-text'>(@muhanned.kp)</span>"
-      url: "https://www.instagram.com/muhanned.kp/"
+      text: "Instagram <span class='link-button-text'>(@kpm.decoded)</span>"
+      url: "https://www.instagram.com/kpm.decoded/"
       alt: "Muhanned KP on Instagram"
       title: "Follow on Instagram"
       target: "_blank"
@@ -71,13 +71,13 @@ links:
 socials:
   - social:
       icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/muhanned.kp/"
+      url: "https://www.instagram.com/kpm.decoded/"
       title: "Instagram"
       alt: "Instagram"
       target: "_blank"
   - social:
       icon: "fa-brands fa-youtube"
-      url: "https://www.youtube.com/@muhannedkp"
+      url: "https://www.youtube.com/@kpm.decoded"
       title: "YouTube"
       alt: "YouTube"
       target: "_blank"
